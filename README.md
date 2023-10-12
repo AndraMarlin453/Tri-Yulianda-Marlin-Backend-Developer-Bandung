@@ -1,3 +1,3 @@
-#Website-data-mahasiswa
+#Website-kalkulator-data-sampah
 
-Website sederhana data mahasiswa dengan php dan framework laravel serta bootstrap.# Tri-Yulianda-Marlin_Backend-Developer_Bandung
+Website sederhana data Sampah dengan php dan framework laravel serta bootstrap.# Tri-Yulianda-Marlin_Backend-Developer_Bandung
