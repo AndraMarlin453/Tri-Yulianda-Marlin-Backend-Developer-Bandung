@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Data Mahasiswa</title>
+        <title>Kalkulator Data Sampah</title>
         <link rel="stylesheet" type="text/css" href="{{asset('assets')}}/css/bootstrap.min.css">
     </head>
     <body style="background-color: #d1d0d0">

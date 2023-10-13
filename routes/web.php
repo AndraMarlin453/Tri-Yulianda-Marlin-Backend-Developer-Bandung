@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\kalkulatorController;
 use App\Http\Controllers\mahasiswaController;
 use App\Http\Controllers\StudentController;
 use Illuminate\Support\Facades\Auth;
@@ -20,4 +21,5 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::resource('mahasiswa', mahasiswaController::class);
+// Route::resource('mahasiswa', mahasiswaController::class);
+Route::resource('kalkulator', kalkulatorController::class);
